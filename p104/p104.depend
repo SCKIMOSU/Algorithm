@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490837352 source:/home/sckubuntu/Algorithm/p104/main.cpp
+	<stdio.h>
+	<queue>
+
